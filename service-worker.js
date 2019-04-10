@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/web-zulvia/precache-manifest.3aed9917c4340931c35b349b3e273315.js"
+  "/web-zulvia/precache-manifest.59848f7ed60ec68311df1d9bcaa271c9.js"
 );
 
 workbox.clientsClaim();
