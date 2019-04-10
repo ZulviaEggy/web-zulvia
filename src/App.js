@@ -66,7 +66,7 @@ class App extends Component {
           </span> 
           <br></br>
           <br></br>
-      <img src={this.state.img} width="250"></img>
+      <img src={this.state.img} width="200"></img>
      
       {/*this.menusaya()*/}
         </div>
